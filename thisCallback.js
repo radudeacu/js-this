@@ -1,4 +1,4 @@
-
+// undefined example because of scope
 
 const cafe = {
     cafeName: "JJ Bean",
